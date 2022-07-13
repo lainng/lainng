@@ -24,6 +24,11 @@ I'm a Java Developer from Minsk, Belarus:belarus:
 - :dog: A small dachshund lives with me.
 
 ---
+#### :computer: My projects:
+
+- 
+
+---
 
 #### :hammer_and_wrench: Languages and Tools :
 
