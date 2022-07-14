@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://c.tenor.com/vtfJA0bW2qoAAAAM/dachshund-dog.gif" width="200"/>
+  <img src="https://c.tenor.com/vtfJA0bW2qoAAAAM/dachshund-dog.gif" width="150"/>
   <div id="badges">
     <a href="https://www.linkedin.com/in/vladislav-piatnitsa-a16548202">
       <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
