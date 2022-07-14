@@ -9,7 +9,7 @@
     </a>
   </div>
   <img src="https://komarev.com/ghpvc/?username=lainng&style=flat-square&color=blue" alt=""/>
-  <h3>Hey there<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="20px"/></h3>
+  <h2 style="border-bottom-width: 0px !important;">Hey there<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"/></h2>
 </div>
 
 ---
