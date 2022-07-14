@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif" width="100"/>
+  <img src="https://c.tenor.com/vtfJA0bW2qoAAAAM/dachshund-dog.gif" width="200"/>
   <div id="badges">
     <a href="https://www.linkedin.com/in/vladislav-piatnitsa-a16548202">
       <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
@@ -16,17 +16,21 @@
 
 #### :man_technologist: About Me :
 
-I'm a Java Developer from Minsk, Belarus:belarus:
+I am a Java developer with burning eyes and a great desire to make the world a little better<img src="https://c.tenor.com/GocCvG7hs78AAAAj/rocket-joypixels.gif" width="20px"/>
 
-- :smile: Very friendly and funny guy.
-- :zap: I explore new and unknown.
-- :swimmer: I love bikes and swimming.
-- :dog: A small dachshund lives with me.
+- <img src="https://c.tenor.com/8ptStKPz7OEAAAAi/swirling-happy-face.gif" width="20px"/> Very friendly and funny guy.
+- <img src="https://c.tenor.com/Ot3hDzO75f4AAAAi/tegan-teganiversen.gif" width="20px" height="20px"/> I explore new and unknown.
+- <img src="https://c.tenor.com/HU3l-lCtryIAAAAi/swimming-tokyo-olympics2021.gif" width="20px" height="20px"/> I love bikes and swimming.
+- <img src="https://c.tenor.com/pcSeP8H7SNsAAAAi/raf-rafs.gif" width="20px" height="20px"/> A small dachshund lives with me.
 
 ---
+
 #### :computer: My projects:
 
-- 
+- :airplane: EPAM Java Web development final project - <a href="https://github.com/lainng/airline">Airline app</a>
+- :school: MJC School - <a href="https://github.com/lainng/gift-certificate-security">Gift certificate app</a>
+- :office: Test tasks for Artplancom - <a href="https://github.com/lainng/animal-library">Animal library</a>
+- :bank: Test task for 'Альфа-Банк' - <a href="https://github.com/lainng/animal-library">Gif-currency app</a>
 
 ---
 
@@ -53,5 +57,3 @@ I'm a Java Developer from Minsk, Belarus:belarus:
 #### :fire: My Stats :
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=lainng&theme=default)](https://git.io/streak-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lainng&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
