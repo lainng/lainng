@@ -12,7 +12,7 @@
   <h1>Hey there<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"/><p/></h1>
 </div>
 
-### :man_technologist: About Me :
+### :man_technologist: About Me:
 
 I am a Java developer with burning eyes and a great desire to make the world a little better<img src="https://c.tenor.com/GocCvG7hs78AAAAj/rocket-joypixels.gif" width="20px"/>
 
@@ -32,7 +32,7 @@ I am a Java developer with burning eyes and a great desire to make the world a l
 
 ---
 
-### :hammer_and_wrench: Languages and Tools :
+### :hammer_and_wrench: Languages and Tools:
 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" title="Java" alt="Java" width="40" height="40"/>
