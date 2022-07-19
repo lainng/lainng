@@ -52,6 +52,6 @@ I am a Java developer with burning eyes and a great desire to make the world a l
 
 ---
 
-### :fire: My Stats :
+### :fire: My Stats:
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=lainng&theme=default)](https://git.io/streak-stats)
