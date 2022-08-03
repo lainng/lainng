@@ -28,7 +28,7 @@ I am a Java developer with burning eyes and a great desire to make the world a l
 - :airplane: EPAM Java Web development final project - <a href="https://github.com/lainng/airline">Airline</a> app
 - :school: MJC School - <a href="https://github.com/lainng/gift-certificate-security">Gift certificate</a> app
 - :office: Test tasks for Artplancom - <a href="https://github.com/lainng/animal-library">Animal library</a>
-- :bank: Test task for 'Альфа-Банк' - <a href="https://github.com/lainng/animal-library">Gif-currency</a> app
+- :bank: Test task for 'Альфа-Банк' - <a href="https://github.com/lainng/gif-currency">Gif-currency</a> app
 
 ---
 
