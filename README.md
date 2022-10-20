@@ -1,11 +1,14 @@
 <div id="header" align="center">
   <img src="https://c.tenor.com/vtfJA0bW2qoAAAAM/dachshund-dog.gif" width="150"/>
   <div id="badges">
-    <a href="https://www.linkedin.com/in/vladislav-piatnitsa-a16548202">
+    <a href="https://www.linkedin.com/in/uladzislau-piatnitsa">
       <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
     </a>
-    <a href="https://www.instagram.com/v.pyatnitsa/">
-      <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
+    <a href="mailto:vpyatnitsa@icloud.com">
+      <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Mail Badge"/>
+    </a>
+    <a href="https://t.me/vpiatnitsa">
+      <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
     </a>
   </div>
   <img src="https://komarev.com/ghpvc/?username=lainng&style=flat-square&color=blue" alt=""/>
@@ -25,8 +28,9 @@ I am a Java developer with burning eyes and a great desire to make the world a l
 
 ### :computer: My projects:
 
+- :ambulance: Medical app for doctors and patients - <a href="https://github.com/lainng/lumon">Lumon</a>
+- :gift: MJC School - <a href="https://github.com/lainng/gift-certificate-security">Gift certificate</a> app
 - :airplane: EPAM Java Web development final project - <a href="https://github.com/lainng/airline">Airline</a> app
-- :school: MJC School - <a href="https://github.com/lainng/gift-certificate-security">Gift certificate</a> app
 - :office: Test tasks for Artplancom - <a href="https://github.com/lainng/animal-library">Animal library</a>
 - :bank: Test task for 'Альфа-Банк' - <a href="https://github.com/lainng/gif-currency">Gif-currency</a> app
 
