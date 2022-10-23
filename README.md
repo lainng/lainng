@@ -31,8 +31,7 @@ I am a Java developer with burning eyes and a great desire to make the world a l
 - :ambulance: Medical app for doctors and patients - <a href="https://github.com/lainng/lumon">Lumon</a>
 - :gift: MJC School - <a href="https://github.com/lainng/gift-certificate-security">Gift certificate</a> app
 - :airplane: EPAM Java Web development final project - <a href="https://github.com/lainng/airline">Airline</a> app
-- :office: Test tasks for Artplancom - <a href="https://github.com/lainng/animal-library">Animal library</a>
-- :bank: Test task for 'Альфа-Банк' - <a href="https://github.com/lainng/gif-currency">Gif-currency</a> app
+- :green_book: Test tasks: <a href="https://github.com/lainng/animal-library">Animal library</a> and <a href="https://github.com/lainng/gif-currency">Gif-currency</a> app
 
 ---
 
@@ -52,6 +51,9 @@ I am a Java developer with burning eyes and a great desire to make the world a l
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" **alt="Git" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/gradle/gradle-plain.svg" title="Gradle" **alt="Gradle" width="40" height="40"/>
   <img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_maven_icon_130397.png" title="Maven" **alt="Maven" width="40" height="40"/>
+  <img src="https://www.liquibase.org/wp-content/themes/liquibase/assets/img/cta-icon.svg" title="Liquibase" **alt="Liquibase" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/apachekafka/apachekafka-original.svg" title="Apache Kafka" **alt="Apache Kafka" width="40" height="40"/>
+   <img src="https://uws.ie/wp-content/uploads/jooq-logo-black.png" title="Jooq" **alt="Jooq" width="40" height="40"/>
 </div>
 
 ---
