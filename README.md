@@ -28,7 +28,7 @@ I am a Java developer with burning eyes and a great desire to make the world a l
 
 ### :computer: My projects:
 
-- :ambulance: Medical app for doctors and patients - <a href="https://github.com/lainng/lumon">Lumon</a>
+- :ambulance: Medical app for doctors and patients - <a href="https://github.com/lainng/lumon">Lumon</a> (under development)
 - :gift: MJC School - <a href="https://github.com/lainng/gift-certificate-security">Gift certificate</a> app
 - :airplane: EPAM Java Web development final project - <a href="https://github.com/lainng/airline">Airline</a> app
 - :green_book: Test tasks: <a href="https://github.com/lainng/animal-library">Animal library</a> and <a href="https://github.com/lainng/gif-currency">Gif-currency</a> app
