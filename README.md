@@ -4,7 +4,7 @@
     <a href="https://www.linkedin.com/in/uladzislau-piatnitsa">
       <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
     </a>
-    <a href="mailto:vpyatnitsa@icloud.com">
+    <a href="mailto:vlpiatnitsa@gmail.com">
       <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Mail Badge"/>
     </a>
     <a href="https://t.me/vpiatnitsa">
@@ -12,7 +12,9 @@
     </a>
   </div>
   <img src="https://komarev.com/ghpvc/?username=lainng&style=flat-square&color=blue" alt=""/>
-  <h1>Hey there<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"/><p/></h1>
+  <h1>
+    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=30&pause=1000&color=000000&center=true&vCenter=true&width=500&lines=Hey+there!+%F0%9F%91%8B" alt="Typing SVG" /></a>
+  </h1>
 </div>
 
 ### :man_technologist: About Me:
