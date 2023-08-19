@@ -23,8 +23,8 @@ I am a Java developer with burning eyes and a great desire to make the world a l
 
 - <img src="https://c.tenor.com/8ptStKPz7OEAAAAi/swirling-happy-face.gif" width="20px"/> Very friendly and funny guy.
 - <img src="https://c.tenor.com/Ot3hDzO75f4AAAAi/tegan-teganiversen.gif" width="20px" height="20px"/> I explore new and unknown.
-- <img src="https://c.tenor.com/HU3l-lCtryIAAAAi/swimming-tokyo-olympics2021.gif" width="20px" height="20px"/> I love bikes and swimming.
-- <img src="https://c.tenor.com/pcSeP8H7SNsAAAAi/raf-rafs.gif" width="20px" height="20px"/> A little dachshund lives with me.
+- <img src="https://c.tenor.com/HU3l-lCtryIAAAAi/swimming-tokyo-olympics2021.gif" width="20px" height="20px"/> Love bikes and swimming.
+- <img src="https://c.tenor.com/pcSeP8H7SNsAAAAi/raf-rafs.gif" width="20px" height="20px"/> Little dachshund lives with me.
 
 ---
 
