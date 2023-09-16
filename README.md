@@ -57,9 +57,3 @@ I am a Java developer with burning eyes and a great desire to make the world a l
   <img src="https://github.com/devicons/devicon/blob/master/icons/apachekafka/apachekafka-original.svg" title="Apache Kafka" **alt="Apache Kafka" width="40" height="40"/>
    <img src="https://uws.ie/wp-content/uploads/jooq-logo-black.png" title="Jooq" **alt="Jooq" width="40" height="40"/>
 </div>
-
----
-
-### :fire: My Stats:
-
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=lainng&theme=default)](https://git.io/streak-stats)
